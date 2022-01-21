@@ -4,7 +4,7 @@ Task - Using the predicting variables - GRE score, TOEFL score, University Ratin
 
 Data set - https://www.kaggle.com/mohansacharya/graduate-admissions
 
-Most of the checks on the data were done directly through excel. It wasn't a huge challenge as the data set wasn't that big. I just had to change the column name of Serial No. , LOR and Chance of Admit. Also, I made sure that Seriol No had been numbered correctly from 1 to 500.
+Most of the data cleaning checks on the data were done directly through excel. It wasn't a huge challenge as the data set wasn't that big. I just had to change the column name of Serial No. , LOR and Chance of Admit. Also, I made sure that Seriol No had been numbered correctly from 1 to 500.
 
 I took a non traditional way of analysing the data - I did it using Tableau.
 
